@@ -1,0 +1,20 @@
+{
+  "name": "redis-pubsub",
+  "version": "1.0.0",
+  "description": "A Node.js Pub/Sub module built on top of Redis.",
+  "main": "module/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basementmaker/redis-pubsub.git"
+  },
+  "author": "BasementMaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basementmaker/redis-pubsub/issues"
+  },
+  "homepage": "https://github.com/basementmaker/redis-pubsub#readme",
+  "dependencies": {
+    "exit-hook": "^2.2.1",
+    "redis": "^3.1.2"
+  }
+}
