@@ -1,5 +1,5 @@
 {
-  "name": "redis-pubsub",
+  "name": "@basementmaker/redis-pubsub",
   "version": "1.0.0",
   "description": "A Node.js Pub/Sub module built on top of Redis.",
   "main": "module/index.js",
